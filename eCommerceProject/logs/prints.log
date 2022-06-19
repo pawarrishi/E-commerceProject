@@ -1,0 +1,90 @@
+11:07:47.716 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+11:07:50.442 [main] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+11:07:50.716 [main] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+11:07:52.911 [main] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+11:07:55.240 [main] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+11:07:57.441 [main] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+11:07:59.668 [main] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+11:08:02.860 [main] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+11:08:07.106 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+17:50:34.753 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+17:50:40.509 [main] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+17:50:40.958 [main] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+17:50:43.202 [main] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+17:50:45.556 [main] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+17:50:47.777 [main] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+17:50:50.017 [main] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+17:50:53.542 [main] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+17:50:54.762 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+18:00:48.153 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+18:01:04.579 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+18:01:04.923 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+18:01:07.241 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+18:01:09.573 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+18:01:11.802 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+18:01:14.056 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+18:01:17.847 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+18:01:18.755 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+18:46:35.817 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+18:46:52.631 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+18:46:52.956 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+18:46:55.170 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+18:46:57.449 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+18:46:59.766 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+18:47:02.104 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+18:47:05.773 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+18:47:06.356 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+18:53:30.175 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+18:53:42.270 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+18:53:42.651 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+18:53:44.868 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+18:53:47.080 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+18:53:49.401 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+18:53:51.729 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+18:53:55.328 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+18:53:55.848 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+19:35:04.300 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+19:35:08.466 [main] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+19:35:08.830 [main] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+19:35:11.079 [main] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+19:35:13.505 [main] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+19:35:15.857 [main] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+19:35:18.173 [main] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+19:35:21.848 [main] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+19:35:22.999 [main] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+19:54:14.808 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+19:54:30.000 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+19:54:30.541 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+19:54:32.751 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+19:54:35.093 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+19:54:37.326 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+19:54:39.667 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+19:54:43.263 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+19:54:43.994 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+20:09:35.226 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+20:09:49.276 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+20:09:49.767 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+20:09:52.037 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+20:09:54.651 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+20:09:56.881 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+20:09:59.292 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+20:10:03.108 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+20:10:08.073 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+20:27:18.720 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+20:27:33.882 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+20:27:34.291 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+20:27:36.527 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+20:27:38.767 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+20:27:41.018 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+20:27:43.591 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+20:27:47.311 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+20:27:52.382 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
+23:55:29.436 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got launched
+23:56:18.050 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Navigated to application URL
+23:56:18.695 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - firstname got entered
+23:56:20.958 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - lastname got entered
+23:56:23.301 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - email got entered
+23:56:25.535 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - password got entered
+23:56:27.884 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - birthyear got entered
+23:56:31.343 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Clicked on submit button
+23:56:35.566 [TestNG-tests-4] DEBUG com.yahoo.TestCases.CreateAccount - Browser got closed
